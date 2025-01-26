@@ -1,0 +1,53 @@
+/* Filename - css/info.css */
+
+.info {
+	width: 40vw;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	color: whitesmoke;
+}
+
+.player {
+	
+	padding: 0.5rem 0;
+	display: flex;
+	font-size: 1.5rem;
+	justify-content: center;
+	align-items: center;
+	width: 10vw;
+}
+.player-choose {
+	
+	padding: 0.5rem 0;
+	display: flex;
+	font-size: 1.5rem;
+	justify-content: center;
+	align-items: center;
+	width: 10vw;
+}
+
+.player-choose:hover {
+	border: #ffee04;
+	border-style: solid;
+	padding: 0.5rem 0;
+	display: flex;
+	font-size: 1.5rem;
+	justify-content: center;
+	align-items: center;
+	text-decoration: underline;
+	width: 10vw;
+}
+
+
+
+.chose {
+	border: 2px solid #ffee04;
+	border-radius: 5%;
+	padding: 0.5rem 0;
+	display: flex;
+	font-size: 1.5rem;
+	justify-content: center;
+	align-items: center;
+	width: 20vw;
+}
